@@ -1,1 +1,4 @@
 Will soon fill this with projects.
+
+Tasks/
+  Contains all the tasks that I have done so far.
